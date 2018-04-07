@@ -1,0 +1,7 @@
+C:\Users\anyi\Documents\Abel\MundoPc\MundoPc\bin\Debug\MundoPc.exe.config
+C:\Users\anyi\Documents\Abel\MundoPc\MundoPc\bin\Debug\MundoPc.exe
+C:\Users\anyi\Documents\Abel\MundoPc\MundoPc\bin\Debug\MundoPc.pdb
+C:\Users\anyi\Documents\Abel\MundoPc\MundoPc\obj\Debug\MundoPc.csprojResolveAssemblyReference.cache
+C:\Users\anyi\Documents\Abel\MundoPc\MundoPc\obj\Debug\MundoPc.csproj.CoreCompileInputs.cache
+C:\Users\anyi\Documents\Abel\MundoPc\MundoPc\obj\Debug\MundoPc.exe
+C:\Users\anyi\Documents\Abel\MundoPc\MundoPc\obj\Debug\MundoPc.pdb
